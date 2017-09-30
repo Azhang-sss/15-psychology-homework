@@ -25,7 +25,7 @@
 
 `LETTERS[1:5]` \# 生成 A-E 五个大写字母 
 
-`letters[5:1] #`  
+`letters[5:1]   # 生成e-a 五个小写字母
 
 `rep(LETTERS[1:3], each = 3) #`  
 
